@@ -1,0 +1,98 @@
+[
+  {
+    "id": "0",
+    "title": "Conservation of energy",
+    "prompt": "A ball falls without air resistance. Explain how its energy changes.",
+    "reference": "Gravitational potential energy decreases as kinetic energy increases; total mechanical energy remains constant.",
+    "rubric": [
+      {
+        "id": "concept",
+        "label": "Core concept",
+        "max": 3
+      },
+      {
+        "id": "reasoning",
+        "label": "Explanation and reasoning",
+        "max": 3
+      }
+    ],
+    "metadata": [
+      {
+        "id": "note-1",
+        "note": "Accept \u201cstored energy becomes motion\u201d as equivalent terminology when conservation is explicit.",
+        "evidence": "Synthetic historical example: course staff awarded credit for this reasoning pattern."
+      }
+    ],
+    "examples": [
+      {
+        "id": "sample",
+        "label": "Partial credit / equivalent reasoning",
+        "response": "The stored energy turns into motion. The total amount of energy stays the same."
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "title": "Derivative reasoning",
+    "prompt": "Find the derivative of x\u00b2 and explain your reasoning.",
+    "reference": "The power rule gives 2x by multiplying by the exponent and reducing the exponent by one.",
+    "rubric": [
+      {
+        "id": "concept",
+        "label": "Core concept",
+        "max": 3
+      },
+      {
+        "id": "reasoning",
+        "label": "Explanation and reasoning",
+        "max": 3
+      }
+    ],
+    "metadata": [
+      {
+        "id": "note-1",
+        "note": "Award method credit for a correct power-rule setup even if the final arithmetic is incorrect.",
+        "evidence": "Synthetic historical example: course staff awarded credit for this reasoning pattern."
+      }
+    ],
+    "examples": [
+      {
+        "id": "sample",
+        "label": "Partial credit / equivalent reasoning",
+        "response": "Using the power rule: 2 times x to the power 2 minus 1. I get 3x."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Natural selection",
+    "prompt": "Explain why antibiotic resistance becomes more common in a bacterial population.",
+    "reference": "Resistant variants survive antibiotic exposure and reproduce, increasing resistance frequency.",
+    "rubric": [
+      {
+        "id": "concept",
+        "label": "Core concept",
+        "max": 3
+      },
+      {
+        "id": "reasoning",
+        "label": "Explanation and reasoning",
+        "max": 3
+      }
+    ],
+    "metadata": [
+      {
+        "id": "note-1",
+        "note": "Accept an explanation of differential survival and reproduction without requiring the phrase natural selection.",
+        "evidence": "Synthetic historical example: course staff awarded credit for this reasoning pattern."
+      }
+    ],
+    "examples": [
+      {
+        "id": "sample",
+        "label": "Partial credit / equivalent reasoning",
+        "response": "Some bacteria already resist the drug. They survive and have offspring, so more of the population resists it."
+      }
+    ]
+  }
+]
